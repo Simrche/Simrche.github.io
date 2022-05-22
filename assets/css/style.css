@@ -96,3 +96,18 @@ form input {
     padding: 5px 10px;
     color: white;
 }
+
+#privacy p{
+    margin-top: 12px;
+}
+
+#privacy h2 {
+    margin-top: 24px;
+}
+
+#pricavyTitle {
+    color: black;
+    font-size: 32px;
+    text-align: center;
+    margin-top: 32px;
+}
